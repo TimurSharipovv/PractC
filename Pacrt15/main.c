@@ -51,9 +51,9 @@ int main() {
 
     PrintList(StudentList);
     FreeList(StudentList);
-    saveFile("test.bin",StudentList);
+    saveFile("students.bin",StudentList);
 
-    List* new_list = loadFile("test.bin");
+    List* new_list = loadFile("students.bin");
   for (int i = 0; i < StudentList->size; i++) {
         upData.index = i;
         Up(&upData);
