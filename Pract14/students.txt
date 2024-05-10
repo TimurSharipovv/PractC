@@ -1,0 +1,3 @@
+Name: Elena, Surname: Sukhova, Age: 23, Gender: 15, Group: ISP-111, estimation: Mathematics - 2, Physics- 2, Chemistry - 3
+Name: Timur, Surname: Sharipov, Age: 14, Gender: 55, Group: SIS-234, estimation: Mathematics - 4, Physics- 4, Chemistry - 3
+Name: Evgeniy, Surname: Skufov, Age: 17, Gender: 44, Group: KS-543, estimation: Mathematics - 5, Physics- 3, Chemistry - 3
