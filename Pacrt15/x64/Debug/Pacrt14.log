@@ -1,0 +1,12 @@
+﻿  list.c
+  main.c
+C:\Users\timur\OneDrive\Рабочий стол\Сишка\Pacrt14\main.c(27,20): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  student.c
+  Создание кода...
+main.obj : error LNK2005: Append уже определен в list.obj
+main.obj : error LNK2005: FreeList уже определен в list.obj
+main.obj : error LNK2005: InitList уже определен в list.obj
+main.obj : error LNK2005: PrintList уже определен в list.obj
+main.obj : error LNK2005: Up уже определен в list.obj
+student.obj : error LNK2005: InitStudent уже определен в main.obj
+C:\Users\timur\OneDrive\Рабочий стол\Сишка\x64\Debug\Pacrt14.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
